@@ -1,4 +1,4 @@
-# Anki Vector - Python SDK
+# Vector - Python SDK
 
 ![Vector](docs/source/images/vector-sdk-alpha.jpg)
 
